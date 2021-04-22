@@ -1,0 +1,80 @@
+2021-04-16 21:35:12.7221|INFO|MovieLibrary.Program|Program started
+2021-04-16 21:35:12.7897|INFO|MovieLibrary.MovieFile|Movies in file 9125
+2021-04-16 21:35:23.1893|INFO|MovieLibrary.Program|User choice: "2"
+2021-04-16 21:35:56.9023|INFO|MovieLibrary.Program|User choice: "1"
+2021-04-16 21:36:31.8672|INFO|MovieLibrary.MovieFile|Movie id 164980 added
+2021-04-16 21:36:33.7790|INFO|MovieLibrary.Program|User choice: ""
+2021-04-16 21:36:33.7790|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:33:43.4582|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:33:43.5018|INFO|MovieLibrary.MovieFile|Movies in file 20
+2021-04-16 22:33:43.5163|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:33:43.5163|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:33:53.4465|INFO|MovieLibrary.Program|User choice: "2"
+2021-04-16 22:33:58.7823|INFO|MovieLibrary.Program|User choice: "1"
+2021-04-16 22:34:12.3791|INFO|MovieLibrary.MovieFile|Movie id 21 added
+2021-04-16 22:34:14.8462|INFO|MovieLibrary.Program|User choice: "3"
+2021-04-16 22:34:14.8462|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:35:36.3726|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:35:36.4121|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:35:36.4227|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:35:36.4227|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:35:38.4506|INFO|MovieLibrary.Program|User choice: "2"
+2021-04-16 22:35:40.7502|INFO|MovieLibrary.Program|User choice: "2"
+2021-04-16 22:35:57.5776|INFO|MovieLibrary.Program|User choice: "3"
+2021-04-16 22:35:57.5776|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:36:05.4473|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:36:05.4858|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:36:05.4959|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:36:05.4959|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:36:06.1645|INFO|MovieLibrary.Program|User choice: "2"
+2021-04-16 22:36:15.5994|INFO|MovieLibrary.Program|User choice: "4"
+2021-04-16 22:36:15.6077|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:36:25.6247|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:36:25.6627|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:36:25.6727|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:36:25.6727|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:36:26.7748|INFO|MovieLibrary.Program|User choice: "3"
+2021-04-16 22:36:26.7748|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:37:39.5018|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:37:39.5395|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:37:39.5395|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:37:39.5395|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:37:48.0595|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:39:10.0851|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:39:10.1236|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:39:10.1348|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:39:10.1348|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:39:27.0231|ERROR|MovieLibrary.ShowFile|Sequence contains no elements
+2021-04-16 22:39:32.4766|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:43:41.2388|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:43:41.2763|INFO|MovieLibrary.MovieFile|Movies in file 21
+2021-04-16 22:43:41.2763|INFO|MovieLibrary.ShowFile|shows in file 0
+2021-04-16 22:43:41.2889|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:44:28.3866|ERROR|MovieLibrary.ShowFile|Sequence contains no elements
+2021-04-16 22:44:39.0569|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:46:11.3261|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:46:11.3712|ERROR|MovieLibrary.MovieFile|Input string was not in a correct format.
+2021-04-16 22:46:11.3861|ERROR|MovieLibrary.ShowFile|Index was outside the bounds of the array.
+2021-04-16 22:46:11.3861|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:47:09.0593|ERROR|MovieLibrary.ShowFile|Sequence contains no elements
+2021-04-16 22:47:25.7977|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:50:05.6742|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:50:05.7125|ERROR|MovieLibrary.MovieFile|Input string was not in a correct format.
+2021-04-16 22:50:05.7125|ERROR|MovieLibrary.ShowFile|Index was outside the bounds of the array.
+2021-04-16 22:50:05.7125|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:50:46.6385|ERROR|MovieLibrary.ShowFile|Sequence contains no elements
+2021-04-16 22:51:01.9771|INFO|MovieLibrary.Program|Program ended
+2021-04-16 22:57:51.7621|INFO|MovieLibrary.Program|Program started
+2021-04-16 22:57:51.7996|ERROR|MovieLibrary.MovieFile|Input string was not in a correct format.
+2021-04-16 22:57:51.7996|INFO|MovieLibrary.ShowFile|Shows in file 1
+2021-04-16 22:57:51.8133|INFO|MovieLibrary.VideoFile|videos in file 0
+2021-04-16 22:58:08.7535|INFO|MovieLibrary.ShowFile|Show id 2 added
+2021-04-16 23:07:40.4665|INFO|MovieLibrary.Program|Program ended
+2021-04-16 23:07:44.0058|INFO|MovieLibrary.Program|Program started
+2021-04-16 23:07:44.0435|ERROR|MovieLibrary.MovieFile|Input string was not in a correct format.
+2021-04-16 23:07:44.0435|INFO|MovieLibrary.ShowFile|Shows in file 1
+2021-04-16 23:07:44.0629|INFO|MovieLibrary.VideoFile|Videos in file 0
+2021-04-16 23:26:48.7891|INFO|MovieLibrary.Program|Program started
+2021-04-16 23:26:48.8283|ERROR|MovieLibrary.MovieFile|Input string was not in a correct format.
+2021-04-16 23:26:48.8283|INFO|MovieLibrary.ShowFile|Shows in file 1
+2021-04-16 23:26:48.8418|INFO|MovieLibrary.VideoFile|Videos in file 0
